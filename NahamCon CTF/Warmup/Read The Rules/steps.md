@@ -1,8 +1,8 @@
-#Read The Rules
+# Read The Rules
 
 The Link is https://ctf.nahamcon.com/rules
 
-Steps:
+**Steps:**
 
 1. View Page Source the rules page
 
